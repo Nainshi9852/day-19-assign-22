@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\bin\Debug\day-19-assign-22.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\bin\Debug\day-19-assign-22.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\bin\Debug\day-19-assign-22.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\obj\Debug\day-19-assign-22.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\obj\Debug\day-19-assign-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\obj\Debug\day-19-assign-22.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\obj\Debug\day-19-assign-22.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-19\day-19-assign-22\day-19-assign-22\obj\Debug\day-19-assign-22.pdb
